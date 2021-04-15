@@ -139,8 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="client.cpp" />
-    <ClCompile Include="server.cpp" />
+    <ClCompile Include="task1_client.cpp" />
+    <ClCompile Include="task1_server.cpp" />
+    <ClCompile Include="task2_client.cpp" />
+    <ClCompile Include="task2_server.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
